@@ -1,2 +1,5 @@
-# Projeto16724
-No Projeto 16724, tive meu primeiro contato com o Flet em Python e aprendi sobre lógica de interfaces. Criei mais de três interfaces, animações e um menu. O projeto simula uma loja básica e me levou a usar Firebase para criar um banco de dados online, com contas únicas e sistema de login. Infelizmente, não avançou além da terceira versão.
+No Projeto 16724, tive meu primeiro contato com o Flet na linguagem Python, onde aprendi muito sobre a lógica de interfaces. Neste projeto, desenvolvi mais de três interfaces diferentes, incluindo animações e um menu. O código também simula uma loja, embora de forma não tão completa.
+
+Esse projeto me incentivou a criar um banco de dados online utilizando Firebase e Python, o que me permitiu explorar um pouco do desenvolvimento web e integração com bancos de dados. A aplicação inclui a criação de contas online, garantindo que nenhum nome de conta seja duplicado. Além disso, implementamos uma funcionalidade de login, que requer informações da conta, como senha, para acessar o sistema.
+
+Outro aspecto interessante é o sistema de controle de versão: se o aplicativo não estiver na mesma versão do banco de dados, ele não funcionará. No entanto, infelizmente, o projeto não avançou além da terceira versão de desenvolvimento.
